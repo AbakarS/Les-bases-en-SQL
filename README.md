@@ -6,4 +6,6 @@ J'utilise le logiciel **DB Browser for SQLite** pour éxecuter toutes mes requê
 
 Vous choisissez la version qui correspond à votre systéme d'exploitation
 
+La table **'jobs.db'** utilisée dans ce tutoriel contient les résultats d'un sondage sur les diplômes americains et leurs revenus à la sortie. Il s'agit d'un extrait des données de 2010 à 2012 des diplômés d'universités. Chaque ligne contient une formation sur une matiéere principale (appelée Major dans cette table).
+
 Bonne lecture 
